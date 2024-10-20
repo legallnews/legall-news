@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://legallnews.github.io/legall-news/
+Sitemap: https://legallnews.github.io/legall.news/putaran-tanpa-henti-pgsoft.html
